@@ -78,3 +78,5 @@ respective open source licenses.
 [34]: https://github.com/oracle/node-oracledb/blob/main/test/README.md
 [35]: https://github.com/oracle/node-oracledb/blob/main/CONTRIBUTING.md
 [36]: http://www.apache.org/licenses/LICENSE-2.0
+
+I have made the changes.
